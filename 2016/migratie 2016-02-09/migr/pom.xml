@@ -47,7 +47,7 @@
 		<quartz.version>2.2.2</quartz.version>
         <apache.poi.version>3.7</apache.poi.version><!-- 3.13 werkt niet -->
         <postgresql.version>9.4-1201-jdbc41</postgresql.version> <!-- 9.4-1205-jdbc42 werkt niet -->
-		<jackson.version>2.6.3</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 
 		<!-- Dependencies (iv) -->
 		<hornetq.version>2.2.14.Final</hornetq.version>

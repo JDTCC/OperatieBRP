@@ -83,7 +83,7 @@
 
         <!-- JSON versies -->
         <jackson.version>2.4.1</jackson.version>
-        <jackson-databind.version>2.4.1.3</jackson-databind.version>
+        <jackson-databind.version>2.12.7.1</jackson-databind.version>
 
         <!-- JMS versies -->
         <activemq.version>5.12.1</activemq.version>
